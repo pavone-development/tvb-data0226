@@ -1,0 +1,8 @@
+{
+  "updated_at": 1731200000,
+  "slots": [
+    { "slot_id": 22, "k": 6901,   "w": 6, "h": 6, "name": "John Doe",     "link": "https://instagram.com/instagram/",           "bio": "Realtor in the metro area" },
+    { "slot_id": 23, "k": 7389,   "w": 1, "h": 1, "name": "John Doe",     "link": "https://instagram.com/instagram/",            "bio": "Realtor in the metro area" },
+    { "slot_id": 24, "k": 7536,   "w": 2, "h": 2, "name": "John Doe",     "link": "https://instagram.com/instagram/",            "bio": "Realtor in the metro area" }
+  ]
+}
