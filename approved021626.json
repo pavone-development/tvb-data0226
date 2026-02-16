@@ -1,0 +1,20 @@
+{
+  "updated_at": 1731200000,
+  "slots": [
+    { "slot_id": 22, "k": 4922,   "w": 1, "h": 1, "name": "Instagram",   
+      "link": "https://instagram.com/instagram/",      
+      "bio": "Instagram bio" },
+    { "slot_id": 22, "k": 4923,   "w": 1, "h": 1, "name": "Facebook",   
+      "link": "https://facebook.com/facebook/",      
+      "bio": "Facebook bio" },
+    { "slot_id": 22, "k": 4924,   "w": 1, "h": 1, "name": "Tiktok",   
+      "link": "https://tiktok.com/tiktok/",      
+      "bio": "Tiktok bio" },
+    { "slot_id": 22, "k": 4925,   "w": 1, "h": 1, "name": "Youtube",   
+      "link": "https://youtube.com/youtube/",      
+      "bio": "Youtube bio" },
+    { "slot_id": 22, "k": 4926,   "w": 1, "h": 1, "name": "X",   
+      "link": "https://x.com/x/",      
+      "bio": "X bio" }
+  ]
+}
